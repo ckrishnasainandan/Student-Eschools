@@ -1,0 +1,13 @@
+.sidebarOption {
+    padding: 30px;
+    background-color: #dcdcdc;
+    cursor: pointer;
+    transition: all 250ms ease-in-out;
+    margin: 0 auto;
+}
+
+.sliderOption-active {
+    background-color: white;
+    border-right: none;
+    transition: all 250ms ease-in-out;
+}
