@@ -1,0 +1,49 @@
+.New-content {
+    width: 80%;
+    height: 400px;
+    border: 2px solid black;
+}
+
+.New-Uploaded {
+    display: flex;
+    margin: 10px 20px;
+}
+
+.New-Uploaded a {
+    color: skyblue;
+    text-decoration: underline;
+}
+
+.New-checkbox {
+    font-size: 15px;
+    margin-left: 25px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.New-Uploaded input {
+    width: 280px;
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.New-div {
+    display: flex;
+    flex-direction: column;
+}
+
+.New-Uploaded-select {
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    margin: 10px 20px;
+}
+
+.New-content button {
+    width: 150px;
+    height: 30px;
+    border: 2px solid black;
+    margin: 40px 20px;
+}

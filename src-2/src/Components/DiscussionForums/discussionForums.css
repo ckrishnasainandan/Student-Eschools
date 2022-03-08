@@ -1,0 +1,79 @@
+.discussionForums {
+    width: 100%;
+}
+
+.discussionForums #p1 input {
+    width: 40%;
+    height: 30px;
+    border-radius: 25px;
+    border: 2px solid black;
+    margin-bottom: 15px;
+}
+
+.discussionForums #p2 textarea {
+    width: 40%;
+    height: 200px;
+    border-radius: 25px;
+    border: 2px solid black;
+    margin-bottom: 15px;
+}
+
+.post {
+    width: 80%;
+    height: 120px;
+    border: 2px solid black;
+    margin: 20px;
+    position: relative;
+    display: flex;
+}
+
+.post button {
+    width: 70px;
+    height: 30px;
+    border: 2px solid black;
+    position: absolute;
+    right: 0px;
+}
+
+
+/* Answer---Fourm */
+
+.Answer-div {
+    width: 80%;
+    height: auto;
+    border: 2px solid black;
+    position: relative;
+}
+
+.ques {
+    text-align: left;
+    width: 90%;
+    height: 100px;
+    margin-top: 20px;
+    left: 20px;
+    border-bottom: 2px solid black;
+}
+
+.Ans {
+    text-align: left;
+    width: 90%;
+    height: 120px;
+    margin: 20px;
+    display: flex;
+}
+
+.Answer-div #p2 textarea {
+    width: 40%;
+    height: 200px;
+    border-radius: 25px;
+    border: 2px solid black;
+    margin-bottom: 15px;
+}
+
+.Answer-div button {
+    width: 70px;
+    height: 30px;
+    border: 2px solid black;
+    position: relative;
+    left: 150px;
+}

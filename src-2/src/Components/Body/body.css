@@ -1,0 +1,27 @@
+.Body {
+    /* height: 100vh; */
+    flex: 0.85;
+    padding-top: 65px;
+    overflow-y: scroll;
+}
+
+.Head {
+    display: flex;
+}
+
+.module-for {
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+    width: 90%;
+}
+
+.p-icon {
+    display: inline;
+    width: 10%;
+    text-align: right;
+}
+
+.body-content {
+    margin-top: 120px;
+}
