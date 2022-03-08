@@ -1,0 +1,39 @@
+.Sidebar {
+    flex: 0.15;
+    height: 100vh;
+    /* border: 1px solid black; */
+    background-color: #dcdcdc;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    /* height: 15%; */
+    margin-left: 4px;
+}
+
+.logo img {
+    width: 180px;
+
+}
+
+.sidebar-options {
+    /* margin-top: 10px; */
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    align-items: center;
+}
+
+.Sidebar a {
+    text-decoration: none;
+    color: black;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}

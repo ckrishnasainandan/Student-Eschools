@@ -1,0 +1,24 @@
+.df-container {
+    display: flex;
+    flex-direction: column;
+    padding: 0 30px;
+    width: 100%;
+}
+
+
+.df-waiting-mess {
+    color: #87ceeb;
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+.df-interface {
+    margin-top: 35px;
+    width: 85%;
+    height: 400px;
+    background-color: #669eb5;
+    padding: 30px;
+    font-size: 18px;
+    color: #000;
+    flex-grow: 2;
+}

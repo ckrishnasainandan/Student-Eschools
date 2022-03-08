@@ -1,0 +1,34 @@
+.user-details {
+    width: 70%;
+    height: 20em;
+    border: 3px solid black;
+    margin-left: 10px;
+}
+
+.user-details h2 {
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.user-details h4 {
+    margin-bottom: 5px;
+}
+
+.user-head button {
+    width: 10em;
+    height: 3em;
+}
+
+.User-Edit table {
+    border-radius: 5px;
+    font-size: 20px;
+    border: 3px solid black;
+    width: 100%;
+    max-width: 100%
+}
+
+.User-Edit button {
+    width: 10em;
+    height: 3em;
+}

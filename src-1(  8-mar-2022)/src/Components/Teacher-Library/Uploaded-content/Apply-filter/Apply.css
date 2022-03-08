@@ -1,0 +1,23 @@
+.Apply-table {
+    text-align: left;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+.Apply-table td {
+    padding: 15px;
+    border: 2px solid black;
+}
+
+.Apply-table th {
+    background-color: #dcdcdc;
+}
+
+.Apply-table tr:nth-child(odd) {
+    background-color: rgb(255, 255, 158);
+}
+
+.Apply-table tr:hover {
+    background-color: #dcdcdc;
+}

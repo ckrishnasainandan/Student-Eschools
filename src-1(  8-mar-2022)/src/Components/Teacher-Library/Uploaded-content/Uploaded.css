@@ -1,0 +1,37 @@
+.Uploaded {
+    display: flex;
+    margin-left: 20px;
+}
+
+.Uploaded input {
+    width: 280px;
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.Uploaded-select {
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.Uploaded p {
+    width: 40%;
+}
+
+.Uploaded-button button {
+    margin: 30px 20px;
+    width: 200px;
+    height: 40px;
+    border-radius: 25px;
+    box-shadow: 4px 4px 5px;
+    font-size: 15px;
+    border: 2px solid black;
+}
+
+.Uploaded-button button:hover {
+    background-color: rgb(108, 108, 253);
+}
